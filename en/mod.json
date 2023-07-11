@@ -1,0 +1,8 @@
+{
+  "category": "category",
+  "user": "user",
+  "shared utils": "shared utils",
+  "quickSearchCount_one": "{{count}} result press enter key to see",
+  "quickSearchCount_other": "{{count}} results press enter key to see all",
+  "quickSearch_hint": "Table filter by: {{term}}"
+}
